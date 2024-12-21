@@ -1,0 +1,67 @@
+name,mfr,calories,protein,fat,sodium,fiber,carbo,sugars,potass,vitamins,shelf
+Apple Cinnamon Cheerios,G,110,2,2,180,1.5,10.5,10,70,25,1
+Cheerios,G,110,6,2,290,2,17,1,105,25,1
+Honey Nut Cheerios,G,110,3,1,250,1.5,11.5,10,90,25,1
+Multi-Grain Cheerios,G,100,2,1,220,2,15,6,90,25,1
+Wheaties,G,100,3,1,200,3,17,3,110,25,1
+Wheaties Honey Gold,G,110,2,1,200,1,16,8,60,25,1
+Cinnamon Toast Crunch,G,120,1,3,210,0,13,9,45,25,2
+Cocoa Puffs,G,110,1,1,180,0,12,13,55,25,2
+Count Chocula,G,110,1,1,180,0,12,13,65,25,2
+Golden Grahams,G,110,1,1,280,0,15,9,45,25,2
+Kix,G,110,2,1,260,0,21,3,40,25,2
+Lucky Charms,G,110,2,1,180,0,12,12,55,25,2
+Trix,G,110,1,1,140,0,13,12,25,25,2
+Basic 4,G,130,3,2,210,2,18,8,100,25,3
+Clusters,G,110,3,2,140,2,13,7,105,25,3
+Crispy Wheat & Raisins,G,100,2,1,140,2,11,10,120,25,3
+Oatmeal Raisin Crisp,G,130,3,2,170,1.5,13.5,10,120,25,3
+Raisin Nut Bran,G,100,3,2,140,2.5,10.5,8,140,25,3
+Total Corn Flakes,G,110,2,1,200,0,21,3,35,100,3
+Total Raisin Bran,G,140,3,1,190,4,15,14,230,100,3
+Total Whole Grain,G,100,3,1,200,3,16,3,110,100,3
+Triples,G,110,2,1,250,0,21,3,60,25,3
+Corn Flakes,K,100,2,0,290,1,21,2,35,25,1
+Frosted Flakes,K,110,1,0,200,1,14,11,25,25,1
+Rice Krispies,K,110,2,0,290,0,22,3,35,25,1
+Special K,K,110,6,0,230,1,16,3,55,25,1
+Apple Jacks,K,110,2,0,125,1,11,14,30,25,2
+Corn Pops,K,110,1,0,90,1,13,12,20,25,2
+Froot Loops,K,110,2,1,125,1,11,13,30,25,2
+Frosted Mini-Wheats,K,100,3,0,0,3,14,7,100,25,2
+Nut&Honey Crunch,K,120,2,1,190,0,15,9,40,25,2
+Raisin Bran,K,120,3,1,210,5,14,12,240,25,2
+Smacks,K,110,2,1,70,1,9,15,40,25,2
+All-Bran,K,70,4,1,260,9,7,5,320,25,3
+All-Bran with Extra Fiber,K,50,4,0,140,14,8,0,330,25,3
+Cracklin' Oat Bran,K,110,3,3,140,4,10,7,160,25,3
+Crispix,K,110,2,0,220,1,21,3,30,25,3
+Fruitful Bran,K,120,3,0,240,5,14,12,190,25,3
+Just Right Crunchy  Nuggets,K,110,2,1,170,1,17,6,60,100,3
+Just Right Fruit & Nut,K,140,3,1,170,2,20,9,95,100,3
+Mueslix Crispy Blend,K,160,3,2,150,3,17,13,160,25,3
+Nutri-Grain Almond-Raisin,K,140,3,2,220,3,21,7,130,25,3
+Nutri-grain Wheat,K,90,3,0,170,3,18,2,90,25,3
+Product 19,K,100,3,0,320,1,20,3,45,100,3
+Raisin Squares,K,90,2,0,0,2,15,6,110,25,3
+Shredded Wheat,N,80,2,0,0,3,16,0,95,0,1
+Shredded Wheat 'n'Bran,N,90,3,0,0,4,19,0,140,0,1
+Shredded Wheat spoon size,N,90,3,0,0,3,20,0,120,0,1
+Strawberry Fruit Wheats,N,90,2,0,15,3,15,5,90,25,2
+100% Bran,N,70,4,1,130,10,5,6,280,25,3
+Golden Crisp,P,100,2,0,45,0,11,15,40,25,1
+Honey-comb,P,110,1,0,180,0,14,11,35,25,1
+Fruity Pebbles,P,110,1,1,135,0,13,12,25,25,2
+Bran Flakes,P,90,3,0,210,5,13,5,190,25,3
+Fruit & Fibre Dates; Walnuts; and Oats,P,120,3,2,160,5,12,10,200,25,3
+Grape Nuts Flakes,P,100,3,1,140,3,15,5,85,25,3
+Grape-Nuts,P,110,3,0,170,3,17,3,90,25,3
+Great Grains Pecan,P,120,3,3,75,3,13,4,100,25,3
+Post Nat. Raisin Bran,P,120,3,1,200,6,11,14,260,25,3
+Cap'n'Crunch,Q,120,1,2,220,0,12,12,35,25,2
+Honey Graham Ohs,Q,120,1,2,220,1,12,11,45,25,2
+Life,Q,100,4,2,150,2,12,6,95,25,2
+100% Natural Bran,Q,120,3,5,15,2,8,8,135,0,3
+Puffed Rice,Q,50,1,0,0,0,13,0,15,0,3
+Puffed Wheat,Q,50,2,0,0,1,10,0,50,0,3
+Quaker Oat Squares,Q,100,4,1,135,2,14,6,110,25,3
